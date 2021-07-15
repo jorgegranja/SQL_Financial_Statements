@@ -11,6 +11,6 @@ The original database has not been published due to privacy/confidentiality conc
 The orginal database source was the output of an ERP / Accounting system from a real business operating in the US. 
 This database contained 10200+ transactions in the form of a ledger.
 
-From the Accounting system a database was exported containing multiple tables as we can see in the Entity Relationship Diagram. [ERD Diagram](https://github.com/jorgegranja/SQL_Financial_Statements/blob/main/ERD_Accounting_System.png)
+From the Accounting system a database was exported containing multiple tables as we can see in the Entity Relationship Diagram. </br>[ERD Diagram](https://github.com/jorgegranja/SQL_Financial_Statements/blob/main/ERD_Accounting_System.png)
 
-The Output from the queries is displayed as a screenshot taken from MySQL and attached into a .pdf file. [Output: Financial Statements](https://github.com/jorgegranja/SQL_Financial_Statements/blob/main/Output_Financial_Statements.pdf)
+The Output from the queries is displayed as a screenshot taken from MySQL and attached into a .pdf file. </br>[Output: Financial Statements](https://github.com/jorgegranja/SQL_Financial_Statements/blob/main/Output_Financial_Statements.pdf)
